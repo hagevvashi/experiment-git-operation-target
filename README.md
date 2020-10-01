@@ -7,3 +7,4 @@ experiment for git subtree. this repository will be subtreed
 * hoge
 * fuga
 * piyo
+* foo
