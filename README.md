@@ -8,3 +8,4 @@ experiment for git subtree. this repository will be subtreed
 * fuga
 * piyo
 * foo
+* bar
