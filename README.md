@@ -5,3 +5,4 @@ experiment for git subtree. this repository will be subtreed
 * bar
 * baz
 * hoge
+* fuga
